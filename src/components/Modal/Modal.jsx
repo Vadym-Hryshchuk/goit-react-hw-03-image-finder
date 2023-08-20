@@ -1,5 +1,6 @@
 import Modal from 'react-modal';
 const customStyles = {
+  overlay: { zIndex: 2 },
   content: {
     top: '50%',
     left: '50%',
